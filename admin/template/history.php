@@ -3,7 +3,7 @@
     ?>
     <main class="d-flex flex-nowrap">
     <?php
-        include "sidebar.php";
+        include "sidebar.php";//woooooyyyy
     ?>
     
     <div class="data-barang overflow-auto" style="width: 100%">
