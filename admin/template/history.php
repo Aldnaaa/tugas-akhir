@@ -38,8 +38,8 @@
               <tr>
                 <th>No</th>
                 <th>Date</th>
-                <th style="width: 39.5%">Nama Barang</th>
-                <th>Total Harga</th>
+                <th style="width: 38%">Nama Barang</th>
+                <th style="width: 15%">Total Harga</th>
                 <th>Jumlah</th>
                 <th>Option</th>
               </tr>
